@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#background-div {
+  background-image: url(https://www.tnvacation.com/sites/default/files/social-images/TNVacation-Share-Main.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  min-height: 100%;
+  opacity: 90%;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+}
+
+.section-item {
+  text-align: center;
+  border-bottom: 1px groove rgba(68, 15, 129, 0.445);
+  border-bottom-width: 4px;
+}
+
+.section-header {
+  color: black;
+  opacity: 100%;
+}
+
+.navbar-elem {
+  position: sticky;
+  top: 0;
+}
+
+.img-sizing {
+  width: 800px;
+  height: 400px;
+  opacity: 100%;
+}
+
+.p-text {
+  color: black;
+}
+
+.p-container {
+  border: 1px solid red;
+  background-color: black;
+  opacity: 20%;
+}
