@@ -4,13 +4,12 @@
 }
 
 #background-div {
-  background-image: url(https://www.tnvacation.com/sites/default/files/social-images/TNVacation-Share-Main.jpg);
+  background-image: url(https://afar-production.imgix.net/uploads/itineraries/images/the-great-smoky-mountains-and-beyond-the-best-of-east-tennessee/original_Tennessee_Eastern_Listing.jpg?1567965538?ixlib=rails-0.3.0&auto=format%2Ccompress&q=80);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
   min-height: 100%;
-  opacity: 90%;
 }
 
 body {
@@ -22,10 +21,11 @@ body {
   text-align: center;
   border-bottom: 1px groove rgba(68, 15, 129, 0.445);
   border-bottom-width: 4px;
+  width: 70em;
 }
 
 .section-header {
-  color: black;
+  color: white;
   opacity: 100%;
 }
 
@@ -35,17 +35,17 @@ body {
 }
 
 .img-sizing {
-  width: 800px;
+  width: 30em;
   height: 400px;
   opacity: 100%;
 }
 
 .p-text {
-  color: black;
+  color: white;
 }
 
 .p-container {
   border: 1px solid red;
-  background-color: black;
-  opacity: 20%;
+  opacity: 100%;
+  width: 70em;
 }
